@@ -1,0 +1,1 @@
+const sortDrinkByPrice = drinks => drinks.sort((a, b) => a.price - b.price);
